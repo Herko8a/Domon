@@ -1,0 +1,27 @@
+﻿// Domon HTML5, js, css, Node.js y MongoDB
+// Version 0.1 
+// Septiembre 2015
+// Héctor Ochoa
+// Hercoka Games
+
+
+
+// Pendientes del Juego
+
+1.- Inteligencia artificial Jugadores contrincantes
+	1.1.- Que los jugadores tiren en base afichas mulas y mayores (defensiva)
+	1.2.- Que los jugadores sean ofensivos (observar fichas en el tablero y no de fichas restantes)
+	1.3.- Que los jugadores cuenten fichas en el tablero
+	1.4.- Que los jugadores traten de pronosticar fichas de contrarios
+	1.5.- Jugadas de engaño
+2.- Que en el tablero las fichas no se salgan del area de juego
+3.- Interfaz grafica para poder tirar con el jugador 1
+4.- Que solo los jugadores 2, 3 y 4 sean automaticos
+5.- Interfaz grafica y delay para ver tirar a jugadores automaticos
+6.- Realizar torneo a (100) puntos. recordando puntuaciones
+7.- Implementar guardar datos con MongoDB
+7.- Login de usuario
+8.- Guardar records de usuarios
+9.- Dejar jugar a 4 jugadores online 
+10.- Implementar juego online con socket.io de Node.js
+
